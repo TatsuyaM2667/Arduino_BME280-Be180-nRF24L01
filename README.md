@@ -19,3 +19,20 @@ Arduino Unoを用いてBME280（温湿度気圧）とBE-180（GPS）のデータ
 | GND        | GND         |
 | D4         | TX          |
 | D5         | RX          |            
+
+## nRF24L01
+
+|Arduino UNO |  nRF24L01   | 
+|:-----------|------------:|
+| 5V         | VCC         |
+| GND        | GND         |
+| D7         | CE          |
+| D8         | CSN         |
+| D13        | SCK         |
+| D11        | MOSI        |  
+| D12        | MISO        |      
+
+
+
+
+
