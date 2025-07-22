@@ -36,5 +36,7 @@ Arduino Unoを用いてBME280（温湿度気圧）とBE-180（GPS）のデータ
 ※1 絶対に5V接続禁止。また、nRF24L01については電源ノイズ対策用にnRF24L01のVCC-GND間へ10μF程度のコンデンサ推奨
 
 
+## 👨‍💻 作者
+- [TatsuyaM2667](https://github.com/TatsuyaM2667)
 
 
