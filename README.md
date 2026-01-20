@@ -40,3 +40,5 @@ Arduino Unoを用いてBME280（温湿度気圧）とBE-180（GPS）のデータ
 - [TatsuyaM2667](https://github.com/TatsuyaM2667)
 
 
+## License
+MIT License (Attribution Required — © 2025 TatsuyaM2667)
